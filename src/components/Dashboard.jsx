@@ -8,7 +8,7 @@ const rooms = [
   "B1-202",
   "C5-405",
   "B4-601",
-  "C6-102"
+  "C6-101"
 ];
 
 export default function Dashboard() {
