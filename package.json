@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@atlaskit/button": "^23.0.5",
-    "@atlaskit/icon": "^25.6.0",
+    "@atlaskit/icon": "^25.8.0",
     "@atlaskit/textfield": "^8.0.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
